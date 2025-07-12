@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrdforce_doc=self.webpackChunkrdforce_doc||[]).push([[903],{1912:o=>{o.exports=JSON.parse('{"blogBasePath":"/tr/blog","blogTitle":"Blog","authorsListPath":"/tr/blog/authors"}')}}]);

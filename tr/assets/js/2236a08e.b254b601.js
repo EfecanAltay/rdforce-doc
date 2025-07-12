@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrdforce_doc=self.webpackChunkrdforce_doc||[]).push([[650],{9331:e=>{e.exports=JSON.parse('{"tags":[{"label":"System","permalink":"/rdforce-doc/tr/docs/tags/system","count":1},{"label":"RDForce","permalink":"/rdforce-doc/tr/docs/tags/rd-force","count":1},{"label":"Info","permalink":"/rdforce-doc/tr/docs/tags/info","count":1}]}')}}]);
